@@ -3,13 +3,9 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>USB_Keyboard</name>
-            <creation-uuid>5d7626e0-e02c-468f-988d-32714cefb9c2</creation-uuid>
+            <name>USB_KB_ForRealz</name>
+            <creation-uuid>b1b35b3a-2057-4dae-aadb-60737a282f84</creation-uuid>
             <make-project-type>0</make-project-type>
-            <c-extensions>c</c-extensions>
-            <cpp-extensions/>
-            <header-extensions>h</header-extensions>
-            <asminc-extensions/>
             <sourceEncoding>ISO-8859-1</sourceEncoding>
             <make-dep-projects/>
             <sourceRootList/>

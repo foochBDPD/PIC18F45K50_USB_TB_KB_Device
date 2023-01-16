@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=USB_Keyboard.X
+PROJECTNAME=USB_KB_ForRealz.X
 
 # Active Configuration
 DEFAULTCONF=default

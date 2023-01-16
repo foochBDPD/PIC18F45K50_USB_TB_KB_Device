@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
-  <executable name="dist/default/production\USB_Keyboard.X.production.hex">
+  <executable name="dist/default/production\USB_KB_ForRealz.X.production.hex">
     <memory name="program">
       <units>bytes</units>
       <length>32768</length>
-      <used>256</used>
-      <free>32512</free>
+      <used>7760</used>
+      <free>25008</free>
     </memory>
     <memory name="data">
       <units>bytes</units>
       <length>2048</length>
-      <used>7</used>
-      <free>2041</free>
+      <used>148</used>
+      <free>1900</free>
     </memory>
   </executable>
 </project>
